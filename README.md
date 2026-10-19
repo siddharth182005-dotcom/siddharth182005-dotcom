@@ -1,3 +1,4 @@
+![My Futuristic Profile](futuristic-profile-banner.png)
 <div align="center">
 
 <!-- Futuristic neon hero banner -->
