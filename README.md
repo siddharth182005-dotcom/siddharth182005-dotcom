@@ -1,103 +1,181 @@
-<!--
-  GitHub Profile README
-  Repository name: siddharth182005-dotcom/siddharth182005-dotcom
-  Replace any placeholder links (especially LinkedIn) with your real profile URLs.
--->
-
 <div align="center">
 
-👋 Hey, I'm Siddharth Gunjan
-Full-Stack Developer · AI Enthusiast · Problem Solver
-Building useful, scalable products at the intersection of AI, web engineering, and thoughtful UX.
-<p>
-  <a href="https://nyaya-ai-legal.vercel.app"><img src="https://img.shields.io/badge/Explore-Nyaya%20AI-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Nyaya AI"></a>
-  <a href="https://leetcode.com/u/siddharth-gunjan/"><img src="https://img.shields.io/badge/LeetCode-Practice-F7A41D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:siddharth18.2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<!-- Futuristic neon hero banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090B1A,35:30105C,70:063B72,100:00D9FF&text=SIDDHARTH%20GUNJAN&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=16" alt="Siddharth Gunjan — Full Stack Developer and AI Enthusiast">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED" width="100%" alt="purple divider">
+<a href="https://github.com/siddharth182005-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-siddharth182005--dotcom-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://nyaya-ai-legal.vercel.app">
+  <img src="https://img.shields.io/badge/LIVE%20PROJECT-NYAYA%20AI-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Nyaya AI">
+</a>
+<a href="https://leetcode.com/u/siddharth-gunjan/">
+  <img src="https://img.shields.io/badge/LEETCODE-PROFILE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
+Code · Create · Learn · Grow · Repeat
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+web+experiences;Exploring+AI-powered+solutions;Turning+ideas+into+real-world+projects;Learning+something+new+every+day" alt="Animated developer tagline">
 
 </div>
 
-◈ About Me
-- 🎓 B.Tech in Computer Science & Engineering at Galgotias University
-- 🧠 Interested in full-stack development, AI-powered products, and system design
-- 🛠️ I enjoy turning ideas into practical applications with clean interfaces and reliable functionality
-- 📈 Strengthening problem-solving skills through data structures and algorithms
-- 🚀 Currently focused on building projects that solve real user problems
-⌘ Tech Stack
-<div align="center">
-
-Languages	Frontend	Backend & Data	Tools
-Java · JavaScript	HTML5 · CSS3 · React	Node.js · MySQL	Git · GitHub · VS Code
-
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,mysql,git,github,vscode&theme=dark" alt="Technology icons">
-</p>
-
-◉ Featured Projects
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="34%" valign="top">
 
-⚖️ Nyaya AI — Legal Assistance
-A web-based legal assistance project designed to make legal information easier to access through a straightforward digital experience.
+◈ Developer Profile
+Siddharth Gunjan
 
-Focus: Web development · Accessible UX · AI-assisted legal support
+🎓 B.Tech CSE · Galgotias University
+📍 India
+💻 Full-Stack Developer
+🤖 AI Enthusiast
 
-↗ Open live project
+Currently focused on
+- Full-stack web development
+- AI-powered applications
+- Data structures & algorithms
+- Building useful, real-world products
+Connect
+- Email
+- LeetCode
+- GitHub
 </td>
-    <td width="50%" valign="top">
+<td width="66%" valign="top">
 
-🧮 CodSoft Calculator
-A calculator project demonstrating core frontend development concepts and interactive user interface design.
+⌁ Welcome to my digital universe
+I enjoy building practical applications that combine thoughtful user experiences with modern web technologies. I’m interested in how AI can make products more helpful, accessible, and intuitive.
+“Turning ideas into real-world solutions, one commit at a time.”
 
-Focus: HTML · CSS · JavaScript · UI interactions
+<a href="https://nyaya-ai-legal.vercel.app">
+  <img src="https://img.shields.io/badge/Explore%20Nyaya%20AI-Launch%20Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Nyaya AI">
+</a>
 
-↗ View repository
 </td>
-  </tr>
+</tr>
 </table>
 
-More projects: Explore my GitHub repositories for more experiments, coursework, and builds.
-
-⟁ GitHub Analytics
+✦ Tech Stack
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddharth182005-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth182005-dotcom&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Most used languages">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,python,mysql,git,github,vscode&theme=dark" alt="Java, JavaScript, HTML, CSS, React, Node.js, Python, MySQL, Git, GitHub and VS Code">
+
+
+
+
+<img src="https://img.shields.io/badge/Problem%20Solving-DSA-7C3AED?style=flat-square" alt="Problem solving">
+<img src="https://img.shields.io/badge/Development-Full%20Stack-06B6D4?style=flat-square" alt="Full stack">
+<img src="https://img.shields.io/badge/Exploration-AI-EC4899?style=flat-square" alt="AI">
+
 </div>
 
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+⚖️ Nyaya AI
+AI-assisted legal assistance web application
+
+A project focused on making legal assistance and information easier to explore through a digital interface.
+
+Highlights
+- Web-based legal assistance experience
+- User-focused interface
+- AI-oriented problem space
+<a href="https://nyaya-ai-legal.vercel.app">
+  <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Nyaya AI">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+🧮 CodSoft Calculator
+Interactive calculator project
+
+A compact project demonstrating frontend fundamentals, layout, and interactive behavior.
+
+Focus
+- HTML and CSS
+- JavaScript interactions
+- Responsive UI fundamentals
+<a href="https://github.com/siddharth182005-dotcom/CodSoft-Calculator">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white" alt="View CodSoft Calculator repository">
+</a>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth182005-dotcom&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=E5E7EB" alt="GitHub contribution streak">
+
+<a href="https://github.com/siddharth182005-dotcom?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-View%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects">
+</a>
+
 </div>
 
+◉ GitHub Command Center
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth182005-dotcom&bg_color=0D1117&color=E5E7EB&line=7C3AED&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity graph">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharth182005-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=070B18&title_color=22D3EE&icon_color=C084FC&text_color=E5E7EB" alt="GitHub profile statistics">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth182005-dotcom&layout=compact&hide_border=true&theme=tokyonight&bg_color=070B18&title_color=22D3EE&text_color=E5E7EB" alt="Most used programming languages">
+
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth182005-dotcom&hide_border=true&theme=tokyonight&background=070B18&ring=C084FC&fire=22D3EE&currStreakLabel=E5E7EB" alt="GitHub contribution streak">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth182005-dotcom&bg_color=070B18&color=E5E7EB&line=7C3AED&point=22D3EE&area=true&hide_border=true" alt="GitHub activity graph">
+
 </div>
 
-◎ Problem Solving
+🟩 Contribution Orbit
 <div align="center">
-  <a href="https://leetcode.com/u/siddharth-gunjan/">
-    <img src="https://leetcard.jacoblin.cool/siddharth-gunjan?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode profile card">
-  </a>
-  <p><a href="https://leetcode.com/u/siddharth-gunjan/">View my LeetCode profile ↗</a></p>
+
+<img src="https://ghchart.rshah.org/7C3AED/siddharth182005-dotcom" alt="GitHub contribution calendar" width="95%">
+
+<sub>Contribution visuals are loaded from third-party services and may occasionally be unavailable.</sub>
 </div>
 
-⌁ Connect
+🧩 Problem Solving
 <div align="center">
-  <a href="mailto:siddharth18.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-siddharth18.2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Siddharth"></a>
-  <a href="https://leetcode.com/u/siddharth-gunjan/"><img src="https://img.shields.io/badge/LeetCode-siddharth--gunjan-F7A41D?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"></a>
-  <a href="https://github.com/siddharth182005-dotcom"><img src="https://img.shields.io/badge/GitHub-siddharth182005--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <!-- Replace the URL below with your actual LinkedIn profile. -->
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="https://leetcode.com/u/siddharth-gunjan/">
+  <img src="https://leetcard.jacoblin.cool/siddharth-gunjan?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode profile card">
+</a>
+
+<a href="https://leetcode.com/u/siddharth-gunjan/">
+  <img src="https://img.shields.io/badge/OPEN%20LEETCODE%20PROFILE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open LeetCode profile">
+</a>
+
 </div>
 
+🌌 Beyond the Code
+- 🔭 Building projects that connect software with real-world needs
+- 🧠 Learning by solving problems and shipping projects
+- 🛠️ Improving code quality, design, and development workflows
+- 🤝 Open to collaborating on interesting web and AI projects
+⌁ Let's Connect
 <div align="center">
 
-“Build with curiosity. Improve with every iteration.”
-<img src="https://komarev.com/ghpvc/?username=siddharth182005-dotcom&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
+<a href="mailto:siddharth18.2005@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/siddharth182005-dotcom">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://leetcode.com/u/siddharth-gunjan/">
+  <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
 
+<!-- Replace the LinkedIn URL below with your actual LinkedIn profile URL. -->
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:30105C,100:090B1A" width="100%" alt="Neon wave footer">
+
+Thanks for visiting my profile. Keep building. 🚀
 </div>
